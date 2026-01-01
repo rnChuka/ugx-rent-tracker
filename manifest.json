@@ -1,0 +1,8 @@
+{
+  "name": "UGX Rent Tracker",
+  "short_name": "Rent UGX",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a"
+}
